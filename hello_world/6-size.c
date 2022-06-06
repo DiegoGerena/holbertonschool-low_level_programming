@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - a program to print the size the size of 
+* main - a program to print the size the size of
 *various types on the computer it is compiled and run on.
 * Return: value of 0
 **/
