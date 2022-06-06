@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void) /* Description: print using puts, not printf.*/
+int main(void) // description: print using puts, not printf.
 
 {
 	char Mystr[] = "\"Programming is like building a multilingual puzzle";
